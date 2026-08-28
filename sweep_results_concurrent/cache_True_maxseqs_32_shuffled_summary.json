@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.738,
+  "total_wall_time_sec": 1.9972888890188187,
+  "avg_latency_sec": 0.12009651357750409,
+  "throughput_req_per_sec": 250.33934887888364,
+  "n": 500,
+  "client_concurrency": 32,
+  "caching": true,
+  "max_num_seqs": 32,
+  "order": "shuffled"
+}
